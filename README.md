@@ -12,7 +12,7 @@ Aplicação mobile desenvolvido em React Native que por meio de sensores de moni
 
 - **SQL Server**
 
-- **API em C#**
+- [**API em C#**](https://github.com/Orion-Solutions-FIAP/HealthyGarden.Api)
 
 - **Node Red**
   
