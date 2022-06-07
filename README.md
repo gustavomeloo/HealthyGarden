@@ -33,3 +33,17 @@ Aplicação mobile desenvolvido em React Native que por meio de sensores de moni
 
 ### Acionando a Funcionalidade de Regar
 <img src="/preview/healthygardengif.gif" width="80%"/>
+
+## Documento Completo 📝
+No link a seguir é possível acessar um documento mais detalhado sobre o nosso projeto:
+<br/>[🔗Project Doc](/Documents/Project_Document.pdf)
+
+
+  ## Desenvolvedores 👨‍💻🟣
+
+- Gabriel Meireles			            
+- Gustavo dos Santos de Melo		    
+- Marcus Vinicius Titanero Guelfi		
+- Henrique Akira Yasuda			        
+- Kelly Naomi Mitsuishi			        
+- Vinicius De Nani Mazinetti 		 
